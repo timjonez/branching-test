@@ -6,3 +6,5 @@ this is a feature
 and this too
 
 feature number 2
+
+you forgot this
