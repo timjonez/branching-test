@@ -10,3 +10,4 @@ feature number 2
 you forgot this
 
 ## Feature 3
+this is the feature
